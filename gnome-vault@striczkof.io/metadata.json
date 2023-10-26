@@ -1,0 +1,8 @@
+{
+  "name": "GNOME Vault",
+  "description": "A GUI frontend for encryption solutions like CryFS.",
+  "uuid": "gnome-vault@striczkof.io",
+  "shell-version": [
+    "45"
+  ]
+}
